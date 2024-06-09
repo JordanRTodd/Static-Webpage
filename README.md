@@ -1,5 +1,4 @@
-# Static-Webpage
-CV website hosted on an AWS S3 bucket
-http://jordanrtoddcv.s3-website-us-west-2.amazonaws.com/
+# Static Webpage Project
+CV website hosted on an AWS S3 bucket 
 
-test
+Link can be found [here](http://jordanrtoddcv.s3-website-us-west-2.amazonaws.com/)
